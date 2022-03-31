@@ -1,0 +1,85 @@
+{
+  "project_info": {
+    "project_number": "964700514130",
+    "firebase_url": "https://check-in-pro-dd6e9.firebaseio.com",
+    "project_id": "check-in-pro-dd6e9",
+    "storage_bucket": "check-in-pro-dd6e9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:964700514130:android:75e7aa8239090fedce7c8b",
+        "android_client_info": {
+          "package_name": "vn.com.unit.checkinpro"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "964700514130-t3q2ipv2qee15j7rf2bi4u0ce6jj898e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBMmQgE_NBZPcnsbek4jSrBB3hLid4VvRM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "964700514130-t3q2ipv2qee15j7rf2bi4u0ce6jj898e.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "964700514130-4lkjb04kkkf26u0ifluf428htmmmu1a2.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "vn.com.unit.checkinpro",
+                "app_store_id": "1526098981"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:964700514130:android:e1f472c2303dd42bce7c8b",
+        "android_client_info": {
+          "package_name": "vn.com.unit.checkinpro"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "964700514130-t3q2ipv2qee15j7rf2bi4u0ce6jj898e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBMmQgE_NBZPcnsbek4jSrBB3hLid4VvRM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "964700514130-t3q2ipv2qee15j7rf2bi4u0ce6jj898e.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "964700514130-4lkjb04kkkf26u0ifluf428htmmmu1a2.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "vn.com.unit.checkinpro",
+                "app_store_id": "1526098981"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

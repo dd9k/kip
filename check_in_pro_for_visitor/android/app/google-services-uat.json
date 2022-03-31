@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "413441510696",
+    "firebase_url": "https://checkinprouat-62d85.firebaseio.com",
+    "project_id": "checkinprouat-62d85",
+    "storage_bucket": "checkinprouat-62d85.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:413441510696:android:9740bde86d7578a9c6141d",
+        "android_client_info": {
+          "package_name": "vn.com.unit.checkinpro.uat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "413441510696-j7rv9ls8aoket9oav4kl5utjfqst2pi9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDaSy9PbYybD_m0US_ZwFa2Vav7UirosFc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "413441510696-j7rv9ls8aoket9oav4kl5utjfqst2pi9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
